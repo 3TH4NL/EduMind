@@ -1,0 +1,78 @@
+#1
+
+
+
+keyword = "Anxiety"
+task_type = "Generate Class Notes"
+
+Output:
+
+**Anxiety**
+
+* **Definition:**  A feeling of fear, dread, and uneasiness, often accompanied by physical symptoms like sweating, restlessness, and rapid heartbeat.
+
+* **Types:**
+    * **Generalized Anxiety Disorder (GAD):** Excessive, uncontrollable worry about everyday things.
+    * **Panic Disorder:**  Characterized by recurrent, unexpected panic attacks.
+    * **Social Anxiety Disorder:** Intense fear of social situations where judgment is possible.
+    * **Agoraphobia:** Fear of places or situations that might cause panic or embarrassment.
+
+
+
+#2
+
+
+
+keyword = "Anxiety"
+task_type = "Generate 5 Practice Questions"
+
+Output:
+
+Practice Questions: Anxiety
+
+1.  Which of the following is NOT a symptom of anxiety?
+    a)  Rapid heartbeat
+    b)  Increased appetite
+    c)  Sweating
+    d)  Restlessness
+
+2.  What is a key characteristic of Generalized Anxiety Disorder?
+    a)  Panic attacks
+    b)  Fear of social situations
+    c)  Excessive worry about many things
+    d)  Fear of open spaces
+
+3.  Agoraphobia is best described as a fear of:
+    a)  Public speaking
+    b)  Specific animals
+    c)  Places or situations that may lead to panic or embarrassment
+    d)  Being alone
+
+4.  A person experiencing recurrent, unexpected panic attacks might be diagnosed with:
+    a)  Generalized Anxiety Disorder
+    b)  Social Anxiety Disorder
+    c)  Panic Disorder
+    d)  Agoraphobia
+
+5.  Social anxiety disorder is primarily focused on:
+    a)  Excessive worry
+    b)  Fear of judgement in social situations
+    c)  Physical sensations of anxiety
+    d)  Fear of being alone
+
+
+
+#3
+
+
+
+keyword = "Anxiety"
+task_type = "Generate Mini Lecture"
+
+Output:
+
+Hello everyone. Today we're talking about anxiety.  Anxiety is a normal human emotion, a feeling of fear, dread, and unease.  It's a common experience, but when it becomes excessive, persistent, and interferes with daily life, it can be a disorder.
+
+There are different types of anxiety disorders. Generalized anxiety disorder involves constant worry about various things.  Panic disorder features unexpected panic attacks, periods of intense fear and physical symptoms like rapid heartbeats.  Social anxiety disorder is the fear of social situations where you might feel judged.  Finally, agoraphobia is a fear of situations where escape might be difficult or help unavailable.
+
+Recognizing these different types and understanding that anxiety is a treatable condition is key. If you or someone you know is struggling with excessive anxiety, please reach out to a trusted adult or professional.  There's help available.
