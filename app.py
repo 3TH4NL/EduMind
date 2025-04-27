@@ -26,8 +26,8 @@ with tab1:
     st.markdown("---")
     st.header("🔗 Project Links")
     st.write("""
-    - [GitHub Repository](https://github.com/your-username/your-repo-name)  
-    - [Project Documentation (PDF)](https://github.com/your-username/your-repo-name/blob/main/EduMind_Documentation.pdf)
+    - [GitHub Repository](https://github.com/3TH4NL/EduMind)  
+    - [Project Documentation (PDF)](https://github.com/3TH4NL/EduMind/blob/main/EduMind_%20Documentation.pdf)
     """)
 
     st.markdown("---")
