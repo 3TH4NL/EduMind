@@ -3,6 +3,7 @@
 EduMind is a generative AI application that creates professional, supportive educational content focused on mental health topics.  
 It leverages Retrieval-Augmented Generation (RAG) and prompt engineering to deliver contextually accurate outputs through an interactive Streamlit application.
 
+Web Demo Link:https://edumind-csye7375.streamlit.app/
 ---
 
 ##  Key Features
